@@ -1,0 +1,1 @@
+1- En el archivo App.config, configurar la cadena de conexión con Data Source = 'su servidor local'
